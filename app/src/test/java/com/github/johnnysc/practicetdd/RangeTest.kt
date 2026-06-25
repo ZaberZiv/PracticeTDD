@@ -1,5 +1,7 @@
 package com.github.johnnysc.practicetdd
 
+import com.github.johnnysc.practicetdd.range.RangeLimits
+import com.github.johnnysc.practicetdd.range.RangePair
 import org.junit.Assert.assertEquals
 import org.junit.Test
 
